@@ -1,3 +1,4 @@
+theme: Minimal
 # Project Title: Cool Hat
 EGR 304 - Spring 2023
 #
