@@ -7,5 +7,5 @@ EGR 304 - Spring 2023
 # Kezmen Lozevski
 # Tim Drafz
 # Jose Aguilar
-# Ivan 
+# Ivan Makarenko
 ---
