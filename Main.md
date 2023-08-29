@@ -4,7 +4,7 @@ EGR 304 - Spring 2023
 #
 ---
 # Team Members:
-Kezmen Lozevski
-Tim Drafz
-Jose Aguilar
+# Kezmen Lozevski
+# Tim Drafz
+# Jose Aguilar
 ---
