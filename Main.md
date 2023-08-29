@@ -1,5 +1,7 @@
+# Project Title: Cool Hat
+EGR 304 - Spring 2023
+#
 ---
-title: Home
+# Team Members:
+Kezmen Lozevski
 ---
-
-# Home
