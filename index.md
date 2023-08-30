@@ -1,5 +1,21 @@
+---
+Title Page
+---
+
 # Cool Hat Project
-> EGR 304 - Spring 2023
+
+## Team 304
+
+## Team Members
+- **Kezmen Lozevski**
+- **Tim Drafz**
+- **Jose Aguilar**
+- **Ivan Makarenko**
+- **Roshan Patel**
+
+## Preparation Date: 8/30/2023
+
+## ASU, EGR 314, Dr. Kevin Nichols
 
 ## Navigation
 - [Team Organization](team-organization.md)
@@ -9,9 +25,3 @@
 - [PIC Code](pic.md)
 - [ESP32 Code](esp32.md)
 
-## Team Members
-- **Kezmen Lozevski**
-- **Tim Drafz**
-- **Jose Aguilar**
-- **Ivan Makarenko**
-- **Roshan Patel**
