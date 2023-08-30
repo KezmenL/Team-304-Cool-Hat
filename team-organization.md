@@ -1,13 +1,16 @@
 # Cool Cap Project
 
-## Introduction
+# Team Charter
 
-The Cool Cap is designed to provide a comfortable and stylish way to stay cool in hot weather. The cap is made from lightweight and breathable materials that wick away moisture
-and keep the user's head cool. It's equipped with a built-in fan that circulates air around the user's head, providing additional cooling. Furthermore, the cap features a motor-driven
-brim that can detect sunlight and move to block it. Users can also control the cap via Wi-Fi for added convenience.
+- Gain more insight on creating electronic systems utilizing industry level software such as Orcad Cadence, and MPlab.
+- Gaining more experience in the design and construction of different serial sensing and actuation circuits.
+- Demonstrating a neat project to friends and family.
+- Expanding our project resume with an interesting design that conveys what we learned throughout the course.
+- Gaining more confidence and familiarity with electrical systems in general to give us a higher repertoire of skills when handling future electrical system tasks.
 
-## Objectives
+---
 
-The primary objective of this project is to create a motor-driven hat designed to provide shade to the user's face and neck by automatically moving to block the sun. 
-To achieve this, the hat is equipped with a motor that adjusts the brim in response to the sun's position. The hat is powered by a rechargeable battery and can be controlled 
-via a Wi-Fi-enabled device. Please refer to the product requirements document for a complete list of features and functionalities that must be included in the product release.
+# Mission Statement
+__To create a device that uses multiple unique sensors to take input from its environment and perform a meaningful or beneficial task. Our goal is to enhance everyday
+life by making technology both adaptive and user-friendly. We are committed to responsible design that considers both practicality and sustainability.__
+
