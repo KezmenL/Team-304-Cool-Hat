@@ -18,6 +18,7 @@
 - [User Needs and Benchmarking](user-needs-benchmarking.md)
 - [Design Ideations](design-ideation.md)
 - [Presentation 1](presentation-1.md)
+- [Team Checkpoint](checkpoint-1.md)
 - [PIC Code](pic.md)
 - [ESP32 Code](esp32.md)
 
