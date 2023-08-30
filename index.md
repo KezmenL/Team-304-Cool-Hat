@@ -11,4 +11,5 @@ EGR 304 - Spring 2023
 
 ---
 
-[View Pictures](pic.md)
+[View PIC Code](pic.md)  
+[View ESP32 Code](esp32.md)
