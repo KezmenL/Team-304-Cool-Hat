@@ -1,19 +1,16 @@
-# Project Title: Cool Hat
-EGR 304 - Spring 2023
+# Cool Hat Project
+> EGR 304 - Spring 2023
 
----
-[View PIC Code](team-organization.md)  
-[View ESP32 Code](user.md)  
-[View PIC Code](pic.md)  
-[View ESP32 Code](esp32.md)  
-[View PIC Code](pic.md)  
-[View ESP32 Code](esp32.md)
+## Navigation
+- [Team Organization](team-organization)
+- [User Needs and Benchmarking](user-needs-benchmarking)
+- [Design Ideations](design-ideation)
+- [Presentation 1](presentation-1)
+- [PIC Code](pic.md)
+- [ESP32 Code](esp32.md)
 
-# Team Members:
-- Kezmen Lozevski
-- Tim Drafz
-- Jose Aguilar
-- Ivan Makarenko
-
----
-
+## Team Members
+- **Kezmen Lozevski**
+- **Tim Drafz**
+- **Jose Aguilar**
+- **Ivan Makarenko**
