@@ -7,8 +7,8 @@ Keywords: “sunhat”
 ![image caption](https://m.media-amazon.com/images/I/71LIEqc-bWL._AC_SX425_.jpg)
 
 
-Price: $16.99
-Vendor: Amazon
+Price: $16.99 <br>
+Vendor: Amazon <br>
 Description: Wide brim hat with long flap and adjustable drawstring to keep hat firmly in place on a windy day. Provides great protection for face, neck and ears, and is perfect for outdoor activities.
 
 
