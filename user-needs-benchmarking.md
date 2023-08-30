@@ -21,13 +21,12 @@ Restated Customer Need<br>
 “Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<br>
 <br>
 
-"The hat fits comfortably on larger heads." (Explicit)<br>
-<br>
+Restated Customer Needs:<br>
+* The hat fits comfortably on larger heads. (Explicit)<br>
 
-"The hat keeps the sun off the skin and protects it." (Explicit)<br>
-<br>
+* The hat keeps the sun off the skin and protects it. (Explicit)<br>
 
-"The quality of the hat is high and withstands harsh treatment and cleaning." (latent)<br>
+* The quality of the hat is high and withstands harsh treatment and cleaning. (latent)<br>
 <br>
 
 Negative Comments<br>
@@ -37,13 +36,13 @@ Restated Customer Need<br>
 The second hat came from a third source (different color) and was folded which creased the bill.”<br>
 <br>
 
+Restated User Needs:
+* The hat needs to be adjustable. (Explicit)<br>
 
-The hat needs to be adjustable. (Explicit)<br>
+* The hat needs to be comfortable to wear. (Latent)<br>
 
-The hat needs to be comfortable to wear. (Latent)<br>
-
-The hat needs to be unisex. (Explicit)<br>
-
+* The hat needs to be unisex. (Explicit)<br>
+<br>
 
 
 
