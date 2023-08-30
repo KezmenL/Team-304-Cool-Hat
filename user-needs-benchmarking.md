@@ -56,6 +56,7 @@ Product #2
 Key words: “Fan Hat”
 Link: https://www.amazon.com/Protection-Fishing-Fisherman-Outdoor-Charging/dp/B088MBQKT9/ref=cm_cr_arp_d_product_top?ie=UTF8
 ![image caption]([https://m.media-amazon.com/images/I/71xufS09OuL._AC_SX425_.jpg](https://m.media-amazon.com/images/I/71xufS09OuL._AC_SX425_.jpg))
+
 Sun Hat with 2 Solar Fans
 Price: $58.99
 Vendor: Amazon
