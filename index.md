@@ -1,7 +1,3 @@
----
-Title Page
----
-
 # Cool Hat Project
 
 ## Team 304
