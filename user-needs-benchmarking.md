@@ -9,37 +9,40 @@ Keywords: “sunhat”
 
 Price: $16.99 <br>
 Vendor: Amazon <br>
-Description: Wide brim hat with long flap and adjustable drawstring to keep hat firmly in place on a windy day. Provides great protection for face, neck and ears, and is perfect for outdoor activities.
+Description: Wide brim hat with long flap and adjustable drawstring to keep hat firmly in place on a windy day. It provides excellent protection for the face, neck, and ears, and is perfect for outdoor activities.
 
 
 
 
 
-Positive Comments
-Voice of the Customer
-Restated Customer Need
-“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe, and fitscomfortably on my big head. I have had it about 2 months now, it has been washed at laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”
-The hat fits comfortably on larger heads. (explicit)
+Positive Comments<br>
+Voice of the Customer<br>
+Restated Customer Need<br>
+“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<br>
+<br>
+
+"The hat fits comfortably on larger heads." (Explicit)<br>
+<br>
+
+"The hat keeps the sun off the skin and protects it." (Explicit)<br>
+<br>
+
+"The quality of the hat is high and withstands harsh treatment and cleaning." (latent)<br>
+<br>
+
+Negative Comments<br>
+Voice of the Customer<br>
+Restated Customer Need<br>
+“Hat is listed as unisex. I ordered two, one for myself and one for my wife. The hat is too big for me and my wife's is way too big. The adjustment is insufficient to make any amount of adjustment. I would not recommend this hat because of the adjustment, but I did not like it overall.
+The second hat came from a third source (different color) and was folded which creased the bill.”<br>
+<br>
 
 
-The hat keeps the sun off the skin and protects it. (explicit)
+The hat needs to be adjustable. (Explicit)<br>
 
+The hat needs to be comfortable to wear. (Latent)<br>
 
-The quality of the hat is high and withstands harsh treatment and cleaning. (latent)
-
-
-Negative Comments
-Voice of the Customer
-Restated Customer Need
-“Hat is listed as unisex. I ordered two, one for myself and one for my wife. The hat is too big for me and my wife's is way too big. The adjustment is insufficient to make any amount of adjustment. I would not recommend this had because of the adjustment, but I did not like it overall.
-The second hat came from a third source (different color) and was folded which creased the bill.”
-The hat needs to be adjustable. (explicit)
-
-
-The hat needs to be comfortable to wear. (latent)
-
-
-The hat needs to be unisex. (explicit)
+The hat needs to be unisex. (Explicit)<br>
 
 
 
