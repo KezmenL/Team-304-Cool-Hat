@@ -1,6 +1,6 @@
-Benchmarking
-Product #1
-Keywords: “sunhat”
+Benchmarking<br>
+Product #1<br>
+Keywords: “sunhat”<br>
 
 [Mens Wide Brim Sun Hat](https://www.google.com/search?q=sunhat&rlz=1C1CHBF_enUS1031US1031&oq=sunhat&aqs=chrome..69i57.711j0j7&sourceid=chrome&ie=UTF-8#oshopproduct=gid:16808262614384046869,mid:576462755299812320,oid:12316959011607323157,iid:8695209390119816112,rds:UENfMTczMjA1MDQ2MDM0Mzc0NTE2OTl8UFJPRF9QQ18xNzMyMDUwNDYwMzQzNzQ1MTY5OQ%3D%3D,pvt:a,pvo:3,pvs:true&oshop=apv&pvs=1&pvo=3)
 
@@ -18,7 +18,7 @@ Description: Wide brim hat with long flap and adjustable drawstring to keep hat 
 Positive Comments<br>
 Voice of the Customer<br>
 Restated Customer Need<br>
-“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<br>
+“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<be>
 <br>
 
 Restated Customer Needs:<br>
@@ -54,24 +54,24 @@ Restated User Needs:
 
 
 
-Product #2
-Key words: “Fan Hat”
-Link: https://www.amazon.com/Protection-Fishing-Fisherman-Outdoor-Charging/dp/B088MBQKT9/ref=cm_cr_arp_d_product_top?ie=UTF8
+Product #2<br>
+Keywords: “Fan Hat”<br>
+[Solar Fan Sun Hat](https://www.amazon.com/Protection-Fishing-Fisherman-Outdoor-Charging/dp/B088MBQKT9/ref=cm_cr_arp_d_product_top?ie=UTF8)
 ![image caption](https://m.media-amazon.com/images/I/71xufS09OuL._AC_SX425_.jpg)
 
-Sun Hat with 2 Solar Fans
-Price: $58.99
-Vendor: Amazon
+Price: $58.99 <br>
+Vendor: Amazon<br>
 Description: Sun Hat with 2 Solar Fan, Mens Summer UV Protection Wide Brim Fishing Hats Cowboy Hat Fisherman Hat Beach Hats Garden Hat for Outdoor Sports, USB Charging Nav
 
 
-Voice of the Customer
-Restated Customer Need
-“It is super reliable , to be honest I stopped charging it the week after I got it . I work outside and the solar panels constantly receive direct sunlight . Bigger visor protects from the sun on all sides . Definitely would recommend if you work in direct sunlight . Shipping did take a little long but it is very well made . Worth the money in my opinion as I use it daily .”
-Super reliable and dont need to charge constantly (explicit)
+Voice of the Customer<br>
+Restated Customer Need:<br>
+“It is super reliable, to be honest, I stopped charging it the week after I got it. I work outside and the solar panels constantly receive direct sunlight. A bigger visor protects from the sun on all sides. Definitely would recommend it if you work in direct sunlight. Shipping did take a little long but it is very well made. Worth the money in my opinion as I use it daily.”<br>
+<br>
+Super reliable and don't need to charge constantly (explicit)
 
 
-Big visor to protect you from sun (explicit)
+Big visor to protect you from the sun (explicit)
 
 
 Solar panels charge it with ease (explicit)
