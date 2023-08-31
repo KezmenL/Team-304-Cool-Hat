@@ -26,6 +26,7 @@ We found times on Monday and Wednesday at 11:00 AM and 3:00 PM right after class
 
 # Communication Methods
 ![image](https://github.com/KezmenL/Team-304-Cool-Hat.github.io/assets/143462508/c9ac1016-f159-4731-9c6d-63e00d131d06)
+
 We have agreed to communicate primarily via Discord and use group text and github as secondary communication. Communicating via text will be our most synchronous communication method, with discord being semi synchronous and the google drive being asynchronous. While synchronous communications are the fastest and most reliable, the other two options offer more in depth forms of communication and allow us to share our work and progress on objectives more efficiently.
 
 
