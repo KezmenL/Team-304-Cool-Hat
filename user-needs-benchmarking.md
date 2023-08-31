@@ -1,5 +1,6 @@
 # Benchmarking<br>
 After our design ideation and choosing an idea concept we were happy with, we set out to benchmark similar ideas that were out in the market, as well as to observe the complaints and positive feedback these ideas recieved. This was usful, as it gave us insight on what worked well and was well recieved, as well as giving us forsight on what could go wrong with our design and mistakes to avoid in our product design.  
+
 Product #1<br>
 Keywords: “sunhat”<br>
 
