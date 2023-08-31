@@ -1,6 +1,7 @@
 # Cool Cap Project
 
 ## Ideation Concepts
+After our brainstorming session, our team set out to create some different project concepts. Putting together the brainstormed ideas into more cohesive product ideas, our team came up with three designs. 
 
 ### Concept 1: Humidity/Light Flower Helper
 
@@ -36,3 +37,5 @@ Description of Concept 3:
 - Humidity sensors included to activate fans when needed.
 - Light sensors determine where to move the hat brim to ensure shade in that direction
 
+
+All three designs held promise. In the end, our team chose to do the cool hat idea becuase it seemed like the project that could generate the most interesting final product and the one that would be the most rewarding and enjoyable to pull off. 
