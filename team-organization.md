@@ -16,4 +16,6 @@ Along with the charter, a simple but consise mission statement gave us a clear t
 __To create a device that uses multiple unique sensors to take input from its environment and perform a meaningful or beneficial task. Our goal is to enhance everyday
 life by making technology both adaptive and user-friendly. We are committed to responsible design that considers both practicality and sustainability.__
 
+#Team schedual
+
 ![Concept 1 Image](https://github.com/KezmenL/Team-304-Cool-Hat.github.io/blob/main/team%20schedual.PNG?raw=true)
