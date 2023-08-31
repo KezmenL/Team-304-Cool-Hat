@@ -18,7 +18,7 @@ Description: Wide brim hat with long flap and adjustable drawstring to keep hat 
 Positive Comments<br>
 Voice of the Customer<br>
 Restated Customer Need<br>
-“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<be>
+“Doing some work under the southwest desert sun 8+ hours a day, 5 days a week, rugged terrain, this hat is keeping my fair skin safe and fits comfortably on my big head. I have had it for about 2 months now, it has been washed at the laundromat every week (and it gets super dirty), and it is holding up great. Strongly recommend for anyone!”<br>
 <br>
 
 Restated Customer Needs:<br>
@@ -31,19 +31,18 @@ Restated Customer Needs:<br>
 
 Negative Comments<br>
 Voice of the Customer<br>
-Restated Customer Need<br>
 “Hat is listed as unisex. I ordered two, one for myself and one for my wife. The hat is too big for me and my wife's is way too big. The adjustment is insufficient to make any amount of adjustment. I would not recommend this hat because of the adjustment, but I did not like it overall.
 The second hat came from a third source (different color) and was folded which creased the bill.”<br>
 <br>
 
-Restated User Needs:
+Restated User Needs:<br>
 * The hat needs to be adjustable. (Explicit)<br>
 
 * The hat needs to be comfortable to wear. (Latent)<br>
 
 * The hat needs to be unisex. (Explicit)<br>
 <br>
-
+<br>
 
 
 
@@ -57,6 +56,7 @@ Restated User Needs:
 Product #2<br>
 Keywords: “Fan Hat”<br>
 [Solar Fan Sun Hat](https://www.amazon.com/Protection-Fishing-Fisherman-Outdoor-Charging/dp/B088MBQKT9/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
 ![image caption](https://m.media-amazon.com/images/I/71xufS09OuL._AC_SX425_.jpg)
 
 Price: $58.99 <br>
@@ -64,64 +64,78 @@ Vendor: Amazon<br>
 Description: Sun Hat with 2 Solar Fan, Mens Summer UV Protection Wide Brim Fishing Hats Cowboy Hat Fisherman Hat Beach Hats Garden Hat for Outdoor Sports, USB Charging Nav
 
 
+Positive Comments<br>
 Voice of the Customer<br>
-Restated Customer Need:<br>
 “It is super reliable, to be honest, I stopped charging it the week after I got it. I work outside and the solar panels constantly receive direct sunlight. A bigger visor protects from the sun on all sides. Definitely would recommend it if you work in direct sunlight. Shipping did take a little long but it is very well made. Worth the money in my opinion as I use it daily.”<br>
 <br>
-Super reliable and don't need to charge constantly (explicit)
+
+Restated User Needs:<br>
++ Super reliable and don't need to charge constantly (explicit)<br>
+
++ Big visor to protect you from the sun (explicit)<br>
+
++ Solar panels charge it with ease (explicit)<br>
+<br>
 
 
-Big visor to protect you from the sun (explicit)
+Negative Comments<br>
+Voice of the Customer<br>
+"Looks worse in person than in the picture. My average (7 1/2 hat size) head swims in this so the brim blocks my visitor. The fans don’t really cool the head/face.
+Blocks view and don't look good."<br>
+<br>
+
+Restated User Needs:<br>
++ Fans don't work for cooling down (explicit)<br>
+
++ Hat sags leading to it blocking your face (Latent)<br>
+<br>
+<br>
 
 
-Solar panels charge it with ease (explicit)
 
 
 
-Voice of the Customer
-Restated Customer Need
-Looks worse in person than in the picture. My average (7 1/2 hat size) head swims in this so the brim blocks my visitor. The fans don’t really cool the head/face.
-Blocks view and doesnt look good (explicit)
 
 
-Fans dont work for cooling down (explicit)
 
 
-Hat sags leading to it blocking your face (Latent)
+Product #3<br>
+Key Words: “Ventilated hard hat with fan”<br>
+[Solar Fan Hard Hat](https://www.amazon.com/Byrotson-Construction-Waterproof-Working-Improvement/dp/B0987KN1CL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AYQNX9KZVOORC&th=1&psc=1)
 
-Product #3
+![image caption](https://m.media-amazon.com/images/I/51mCWAKi7GL._AC_SL1050_.jpg)
 
-Key Words“Ventilated hard hat with fan”
-Link: https://www.amazon.com/Byrotson-Construction-Waterproof-Working-Improvement/dp/B0987KN1CL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AYQNX9KZVOORC&th=1&psc=1
-
-Construction Hat with Solar Fan
-Price: $69.26
-Vendor: Amazon
-Description: Mens Construction Hard Hat with Solar Fan and Light, Waterproof Working Helmet for Construction and Home Improvement, USB Output
+Price: $69.26<br>
+Vendor: Amazon<br>
+Description: Mens Construction Hard Hat with Solar Fan and Light, Waterproof Working Helmet for Construction and Home Improvement, USB Output.
 
 
-Voice of the Customer
-Restated Customer Need
-“This was very good hat. We just found one with more fan. This is real good price.”
-More fans the better (Latent)
+Positive Comments:<br>
+Voice of the Customer<br>
+Restated User Needs:<br>
+“This was very good hat. We just found one with more fan. This is real good price.”<br>
+<br>
+
++ More fans the better (Latent)<br>
+
++ Good price cheap and reliable (Explicit)<br>
+
++ Well fitting and comfy (Latent)<br>
+<br>
 
 
-Good price cheap and reliable (Explicit)
+Negative Comments:<br>
+Voice of the Customer<br>
+“When my husband saw this being how hot it is in Florida he automatically wanted it for his truck driving outside duties. When we recieved it… it was broken the stuff was apart everywhere and looks to been put together by simple glue.”<br>
+<br>
 
++ Built poorly (explicit)<br>
 
-Well fitting and comfy (Latent)
++ Needs to be solid and well put together (latent)<br>
 
++ Needs to be safety approved (Latent)<br>
+<br>
 
-Voice of the Customer
-Restated Customer Need
-“When my husband saw this being how hot it is in Florida he automatically wanted it for his truck driving outside duties. When we recieved it… it was broken the stuff was apart everywhere and looks to been put together by simple glue.”
-Built poorly (explicit)
-
-
-Needs to be solid and well put together (latent)
-
-
-Needs to be safety approved (Latent)
 
 
 Product #4
