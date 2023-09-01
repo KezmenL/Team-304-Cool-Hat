@@ -1,5 +1,5 @@
 # Benchmarking<br>
-After our design ideation and choosing an idea concept we were happy with, we set out to benchmark similar ideas that were out in the market, as well as to observe the complaints and positive feedback these ideas recieved. This was usful, as it gave us insight on what worked well and was well recieved, as well as giving us forsight on what could go wrong with our design and mistakes to avoid in our product design.  
+After our design ideation and choosing an idea concept we were happy with, we set out to benchmark similar ideas that were out in the market, as well as to observe the complaints and positive feedback these ideas received. This was useful, as it gave us insight into what worked well and was well received, as well as giving us foresight on what could go wrong with our design and mistakes to avoid in our product design.  
 
 ---
 
@@ -111,15 +111,15 @@ Key Words: “Ventilated hard hat with fan”<br>
 
 Price: $69.26<br>
 Vendor: Amazon<br>
-Description: Mens Construction Hard Hat with Solar Fan and Light, Waterproof Working Helmet for Construction and Home Improvement, USB Output.
+Description: Men's Construction Hard Hat with Solar Fan and Light, Waterproof Working Helmet for Construction and Home Improvement, USB Output.
 
 
 Positive Comments:<br>
 Voice of the Customer<br>
-Restated User Needs:<br>
-“This was very good hat. We just found one with more fan. This is real good price.”<br>
+“This was a very good hat. We just found one with more fans. This is a real good price.”<br>
 <br>
 
+Restated User Needs:<br>
 + More fans the better (Latent)<br>
 
 + Good price cheap and reliable (Explicit)<br>
@@ -133,6 +133,7 @@ Voice of the Customer<br>
 “When my husband saw this being how hot it is in Florida he automatically wanted it for his truck driving outside duties. When we recieved it… it was broken the stuff was apart everywhere and looks to been put together by simple glue.”<br>
 <br>
 
+Restated User Needs:<br>
 + Built poorly (explicit)<br>
 
 + Needs to be solid and well put together (latent)<br>
@@ -142,82 +143,89 @@ Voice of the Customer<br>
 
 
 
-Product #4
-Key Words: “Solar Powered Headlamp Hat”
-Link: https://www.tractorsupply.com/tsc/product/panther-vision-powercap-4-led-camo-blaze-ultra-bright-hands-free-lighted-cap
+Product #4<br>
+Key Words: “Solar Powered Headlamp Hat”<br>
+[Solar-Powered Headlamp Hat](https://www.tractorsupply.com/tsc/product/panther-vision-powercap-4-led-camo-blaze-ultra-bright-hands-free-lighted-cap)
 
-Solar Powered Headlamp Hat
-Price: $39.99
-Vendor: Tractor Supply Co.
+![image caption](https://media.tractorsupply.com/is/image/TractorSupplyCompany/1354593?wid=456&hei=456&fmt=jpeg&qlt=100,0&resMode=sharp2&op_usm=0.9,1.0,8,0)
+
+
+Price: $39.99<br>
+Vendor: Tractor Supply Co.<br>
 Description:  Powercap 4-LED Camo/Blaze Ultra-Bright Hands-Free Battery-Powered Headlamp Cap
 
 
-Voice of the Customer
-Restated Customer Need
-“These hats are great! I have 3 now but their showing their age after I've replaced the batteries. I wear them almost exclusively. Sometimes you don't know when your going to need lite and I'm always impressed with how smart I am to be wearing this hat with the lights on it! Lol Simply beautiful. Why didn't they always have these. I'm throwing my other hats away because I've been disappointed ANY night I didn't have them on. “
-Replaceable batteries (Explicit)
+Positive Comments:<br>
+Voice of the Customer<br>
+“These hats are great! I have 3 now but they are showing their age after I've replaced the batteries. I wear them almost exclusively. Sometimes you don't know when you are going to need light and I'm always impressed with how smart I am to be wearing this hat with the lights on it! Lol, Simply beautiful. Why didn't they always have these? I'm throwing my other hats away because I've been disappointed ANY night I didn't have them on. “ <br>
+<br>
+
+Restated User Needs:<br>
+
++ Replaceable batteries (Explicit)<br>
+
++ Fits comfortably (Latent)<br>
+
++ Helpful light to see where your going (Explicit)<br>
+<br>
 
 
-Fits comfortably (Latent)
+Negative Comments:<br>
+Voice of the Customer<br>
+“There are only two LITTLE lights, not four, and they are very dim. The only thing they would be good for is finding your way along an unlit path at night. Otherwise, the hat is well-made, looks like it will last, but that isn't what I bought it for." <br>
+<br>
 
+Restated User Needs:<br>
 
-Helpful light to see where your going(Explicit)
++ Too little of lights (Explicit)<br>
 
++ Well made and long lasting (Explicit)<br>
 
-Voice of the Customer
-Restated Customer Need
-“There are only two LITTLE lights, not four, and they are very dim. The only thing they would be good for is finding your way along an unlit path at night. Otherwise, the hat is well-made, looks like it will last, but that isn't what I bought it for. “
-Too little of lights(Explicit)
-
-
-Well made and long lasting(Explicit)
-
-
-Needs to be properly functional(Latent)
++ Needs to be properly functional (Latent)<br>
+<br>          
 
 
 
 
 
-Product #5
-Keywords: “umbrella hat”
+Product #5<br>
+Keywords: “umbrella hat”<br>
 
-Search Results Link: https://www.amazon.com/NEW-Vi-Umbrella-Adjustable-Multifunction-Headwear/dp/B07FJN73XH/ref=asc_df_B07FJN73XH/?tag=hyprod-20&linkCode=df0&hvadid=312029710299&hvpos=&hvnetw=g&hvrand=16530499614022385401&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030087&hvtargid=pla-568272561547&psc=1 
-https://m.media-amazon.com/images/I/51k1riPIgTL._AC_UX425_.jpg 
+[Umbrella Hat](https://www.amazon.com/NEW-Vi-Umbrella-Adjustable-Multifunction-Headwear/dp/B07FJN73XH/ref=asc_df_B07FJN73XH/?tag=hyprod-20&linkCode=df0&hvadid=312029710299&hvpos=&hvnetw=g&hvrand=16530499614022385401&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030087&hvtargid=pla-568272561547&psc=1)
+![image caption](https://m.media-amazon.com/images/I/51k1riPIgTL._AC_UX425_.jpg)
 
-Price: $11.99
-Vendor: Amazon
+Price: $11.99<br>
+Vendor: Amazon<br>
 Description: Adjustable sun rain cap, 37.4” oversize hands free umbrellas, 7-ribs anti-UV waterproof headwear for fishing, gardening, golf, sunshade, and outdoor use.
 
-Positive Comments
-Voice of the Customer
-Restated Customer Need
-Great idea, allows for doing a lot of things hands-free while keeping the sun/rain off. Keep in mind that it has the weight and underside structure of an umbrella, not a hat, and the bars(?) that hold it up end at the headband, so you can feel them moving on your head a bit. It's probably not something that would be comfortable for hours on end, but it's great for an hour or so.
-The hat allows for hands free use. 
-(explicit)
+Positive Comments<br>
+Voice of the Customer<br>
+"Great idea, allows for doing a lot of things hands-free while keeping the sun/rain off. Keep in mind that it has the weight and underside structure of an umbrella, not a hat, and the bars(?) that hold it up end at the headband, so you can feel them moving on your head a bit. It's probably not something that would be comfortable for hours on end, but it's great for an hour or so."<br>
+<br>
+
+Restated User Needs:<br>
+
++ The hat allows for hands free use. (Explicit)<br>
+
++ The hat keeps the sun off the skin and protects it. (Explicit)<br>
+
++ The hats support structure should be well secured to avoid bobbling around when turning/ moving about. (Latent)<br>
+<br>
 
 
-The hat keeps the sun off the skin and protects it. (explicit)
+Negative Comments<br>
+Voice of the Customer<br>
+"I like the size of the umbrella hat. However, it’s very hard to put and stay on your head. Also it’s very flimsy. I cut my fingers on the sharp metal bars that provide the little support there is. The metal needs to be filed or sanded down to prevent the sharp cuts to your fingers."<br>
+<br>
 
+Restated User Needs:<br>
 
-The hats support structure should be well secured to avoid bobbling around when turning/ moving about. (latent)
++ Durable design. (Latent)<br>
 
++ Well secured on head and aerodynamic, (won’t blow away). (Latent)<br> 
 
-Negative Comments
-Voice of the Customer
-Restated Customer Need
-I like the size of the umbrella hat. However, it’s very hard to put and stay on your head. Also it’s very flimsy. I cut my fingers on the sharp metal bars that provide the little support there is. The metal needs to be filed or sanded down to prevent the sharp cuts to your fingers. I
-Durable design. (Latent)
-
-
-Well secured on head and aerodynamic, (won’t blow away) .
-(Latent) 
-
-
-
-
-Safe design and materials with no sharp edges. 
-(Latent)
++ Safe design and materials with no sharp edges. (Latent)<br>
+<br>
 
 
 
