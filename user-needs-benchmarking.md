@@ -50,9 +50,7 @@ Restated User Needs:<br>
 
 
 
-
-
-
+---
 
 
 
@@ -97,7 +95,7 @@ Restated User Needs:<br>
 
 
 
-
+---
 
 
 
@@ -141,7 +139,7 @@ Restated User Needs:<br>
 + Needs to be safety approved (Latent)<br>
 <br>
 
-
+---
 
 Product #4<br>
 Key Words: “Solar Powered Headlamp Hat”<br>
@@ -185,7 +183,7 @@ Restated User Needs:<br>
 <br>          
 
 
-
+---
 
 
 Product #5<br>
